@@ -1,5 +1,6 @@
 awot-scripts [![Build Status](https://travis-ci.org/lasselukkari/awot-scripts.svg?branch=master)](https://travis-ci.org/lasselukkari/awot-scripts) [![npm version](http://img.shields.io/npm/v/awot-scripts.svg?style=flat)](https://npmjs.org/package/awot-scripts "View this project on npm")
 ============
+#### Pre-emptive fork to support remote deployments as part of scripts package
 ## Installation
 ```bash
 $ npm install awot-scripts
